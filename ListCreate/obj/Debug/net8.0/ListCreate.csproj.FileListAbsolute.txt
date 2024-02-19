@@ -1,0 +1,14 @@
+C:\Siana 9A\ListinC#-9a-2024\ListCreate\bin\Debug\net8.0\ListCreate.exe
+C:\Siana 9A\ListinC#-9a-2024\ListCreate\bin\Debug\net8.0\ListCreate.deps.json
+C:\Siana 9A\ListinC#-9a-2024\ListCreate\bin\Debug\net8.0\ListCreate.runtimeconfig.json
+C:\Siana 9A\ListinC#-9a-2024\ListCreate\bin\Debug\net8.0\ListCreate.dll
+C:\Siana 9A\ListinC#-9a-2024\ListCreate\bin\Debug\net8.0\ListCreate.pdb
+C:\Siana 9A\ListinC#-9a-2024\ListCreate\obj\Debug\net8.0\ListCreate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Siana 9A\ListinC#-9a-2024\ListCreate\obj\Debug\net8.0\ListCreate.AssemblyInfoInputs.cache
+C:\Siana 9A\ListinC#-9a-2024\ListCreate\obj\Debug\net8.0\ListCreate.AssemblyInfo.cs
+C:\Siana 9A\ListinC#-9a-2024\ListCreate\obj\Debug\net8.0\ListCreate.csproj.CoreCompileInputs.cache
+C:\Siana 9A\ListinC#-9a-2024\ListCreate\obj\Debug\net8.0\ListCreate.dll
+C:\Siana 9A\ListinC#-9a-2024\ListCreate\obj\Debug\net8.0\refint\ListCreate.dll
+C:\Siana 9A\ListinC#-9a-2024\ListCreate\obj\Debug\net8.0\ListCreate.pdb
+C:\Siana 9A\ListinC#-9a-2024\ListCreate\obj\Debug\net8.0\ListCreate.genruntimeconfig.cache
+C:\Siana 9A\ListinC#-9a-2024\ListCreate\obj\Debug\net8.0\ref\ListCreate.dll
